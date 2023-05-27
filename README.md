@@ -1,4 +1,4 @@
-# MergeSort-AlaCarte-Rectangular-Algorithms
+#Multiplication Algorithm-AlaCarte-Rectangular-
 Sorting: Merge and sort 2 sorted array
 
 Multiplication Algorithm:
